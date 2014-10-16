@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# The following link must be downloaded first:
+
+	# http://h20565.www2.hp.com/portal/site/hpsc/template.PAGE/public/psi/swdDetails/?sp4ts.oid=4184779&spf_p.tpst=swdMain&spf_p.prp_swdMain=wsrp-navigationalState%3Didx%253D0%257CswItem%253Dlj_126116_2%257CswEnvOID%253D4159%257CitemLocale%253D%257CswLang%253D%257Cmode%253D3%257Caction%253DdriverDocument&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken
+
+echo "This is a simple script to add the Faraday House printer to your mac";
+echo "Loading...";
+
+sudo /usr/sbin/lpadmin -p 128.230.112.138 -L "SU Faraday House" -E -v lpd://128.230.112.138 -P /Library/Printers/PPDs/Contents/Resources/HP\ LaserJet\ 600\ M601\ M602\ M603.gz
