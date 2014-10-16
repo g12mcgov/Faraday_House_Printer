@@ -28,6 +28,7 @@ If you want to add the ability to print directly from your Mac at Faraday house,
 8.	Now, go back to where you downloaded the ﬁle, double click it again. Just hit “OK” if it says anything.
 
 9.	The script needs your password. So type it in when it prompts you for it. NOTE: IT WILL NOT SHOW YOUR PASSWORD AS YOU’RE TYPING. This is totally normal!!
+
 ```
   grantmcgovern@gMAC:~$ /Users/grantmcgovern/Downloads/addPrinter ; exit;
   This is a simple script to add the Faraday House printer to your mac
@@ -35,4 +36,4 @@ If you want to add the ability to print directly from your Mac at Faraday house,
   Password:		
 ```
 
-10.	If everything worked, you should be all set! Now when you print, just select the printer named  <b>128.230.112.138</b>
+If everything worked, you should be all set! Now when you print, just select the printer named  <b>128.230.112.138</b>
