@@ -34,4 +34,5 @@ If you want to add the ability to print directly from your Mac at Faraday house,
   Loading...
   Password:		
 ```
+
 10.	If everything worked, you should be all set! Now when you print, just select the printer named  <b>128.230.112.138</b>
