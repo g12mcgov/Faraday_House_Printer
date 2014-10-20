@@ -15,7 +15,7 @@ If you want to add the ability to print directly from your Mac at Faraday house,
   
   [HP Driver Installation Tutorial](http://goo.gl/qgV1kv)
 
-3.	Now, download the script attached to this email called “<b>addPrinter</b>”.
+3.	Now, download the attached script called “<b>addPrinter</b>”.
 
 4.	Once it’s download, double click it to run.
 
